@@ -1,0 +1,409 @@
+.notification-PUFF {
+    height: 2251px;
+    overflow: hidden;
+    position: relative;
+    width: 1512px;
+}
+
+.notification-PUFF .blur-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    filter: blur(15px);
+    /* Adjust blur as needed */
+    -webkit-filter: blur(15px);
+}
+
+.notification-PUFF .background-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.notification-PUFF .overlap {
+    position: relative;
+    z-index: 1;
+}
+
+/* Existing styles */
+.notification-PUFF .rectangle {
+    height: 1976px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 3px;
+    width: 1512px;
+}
+
+.notification-PUFF .base {
+    -webkit-backdrop-filter: blur(20.35px) brightness(100%);
+    backdrop-filter: blur(20.35px) brightness(100%);
+    border-radius: 56px;
+    box-shadow: -23.61px 48.85px 73.27px #16122b8c;
+    height: 433px;
+    left: 125px;
+    position: absolute;
+    top: 531px;
+    width: 1244px;
+}
+
+/* Add other existing styles below */
+
+.notification-PUFF .base {
+    -webkit-backdrop-filter: blur(20.35px) brightness(100%);
+    backdrop-filter: blur(20.35px) brightness(100%);
+    border-radius: 56px;
+    box-shadow: -23.61px 48.85px 73.27px #16122b8c;
+    height: 433px;
+    left: 125px;
+    position: absolute;
+    top: 531px;
+    width: 1244px;
+}
+
+.notification-PUFF .navbar {
+    background-color: #0000004c;
+    box-shadow: 0px 2px 10px #23232326;
+    height: 117px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 1512px;
+}
+
+.notification-PUFF .group {
+    height: 58px;
+    left: 100px;
+    position: relative;
+    top: 29px;
+    width: 78px;
+}
+
+.notification-PUFF .ellipse {
+    background: linear-gradient(180deg, rgb(18, 156, 158) 0%, rgb(51, 187, 176) 100%);
+    border-radius: 12.91px;
+    filter: blur(20px);
+    height: 26px;
+    left: 1427px;
+    position: absolute;
+    top: 15px;
+    width: 26px;
+}
+
+.notification-PUFF .vector {
+    height: 1071px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 1460px;
+}
+
+.notification-PUFF .overlap-group-wrapper {
+    height: 239px;
+    left: 29px;
+    position: absolute;
+    top: 0;
+    width: 576px;
+}
+
+.notification-PUFF .overlap-group {
+    height: 236px;
+    position: relative;
+    top: 3px;
+    width: 574px;
+}
+
+.notification-PUFF .clip-path-group {
+    height: 65px;
+        left: 0;
+        position: absolute;
+        top: -5px;
+        width: 75px;
+}
+
+.notification-PUFF .SPACE-MISSIONS {
+    /* color: #26e2b3;
+    font-family: "BABAPRO FONT-Bold", Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+    left: 87px;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: absolute;
+    top: 31px;
+    width: 487px;
+    text-align: left;
+    padding-left: 8px; */
+    color: #26e2b3;
+        font-family: "BABAPRO FONT-Bold", Helvetica;
+        font-size: 22px;
+        font-weight: 700;
+        left: 65px;
+        letter-spacing: 0px;
+        line-height: 22px;
+        position: absolute;
+        top: 10px;
+        width: 500px;
+        text-align: left;
+}
+
+.notification-PUFF .bildschirmfoto {
+    height: 2222px;
+        left: -50px;
+        object-fit: cover;
+        position: absolute;
+        top: 60px;
+        width: 1589px;
+        filter: blur(16px);
+}
+
+.notification-PUFF .overlap-wrapper {
+    height: 1261px;
+    left: 65px;
+    position: absolute;
+    top: 409px;
+    width: 1289px;
+}
+
+.notification-PUFF .div {
+    height: 1269px;
+    position: relative;
+    width: 1285px;
+}
+
+.notification-PUFF .img {
+    height: 887px;
+    left: 0;
+    position: absolute;
+    top: 374px;
+    width: 1285px;
+}
+
+.notification-PUFF .ellipse-2 {
+    background-color: #34d8fccc;
+    border-radius: 326px/251px;
+    filter: blur(160px);
+    height: 502px;
+    left: 321px;
+    opacity: 0.5;
+    position: absolute;
+    top: 574px;
+    width: 652px;
+}
+
+.notification-PUFF .div-wrapper {
+    height: 442px;
+    left: 421px;
+    position: absolute;
+    top: 594px;
+    width: 436px;
+}
+
+.notification-PUFF .ellipse-wrapper {
+    background-image: url(/public/ellipse-22-1.svg);
+    background-size: 100% 100%;
+    height: 660px;
+    left: -104px;
+    position: relative;
+    top: -105px;
+    width: 655px;
+}
+
+.notification-PUFF .ellipse-3 {
+    border: 1px solid;
+    border-color: #03dabb;
+    border-radius: 218px/221px;
+    height: 442px;
+    left: 104px;
+    position: relative;
+    top: 105px;
+    width: 436px;
+}
+
+.notification-PUFF .button {
+    all: unset;
+    box-sizing: border-box;
+    height: 101px;
+    left: 421px;
+    position: absolute;
+    top: 1076px;
+    width: 443px;
+}
+
+.notification-PUFF .overlap-group-2 {
+    height: 101px;
+    position: relative;
+    width: 441px;
+}
+
+.notification-PUFF .rectangle-2 {
+    height: 101px;
+    left: 51px;
+    position: absolute;
+    top: 0;
+    width: 351px;
+}
+
+.notification-PUFF .text-wrapper {
+    color: #79f2ce;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 22px;
+    width: 441px;
+}
+
+.notification-PUFF .kopie-von-UI-SPACE {
+    height: 1261px;
+    left: 27px;
+    position: absolute;
+    top: 0;
+    width: 374px;
+}
+
+.notification-PUFF .kopie-von-UI-SPACE-2 {
+    height: 1269px;
+    left: 888px;
+    position: absolute;
+    top: 0;
+    width: 382px;
+}
+
+.notification-PUFF .text-wrapper-2 {
+    color: #79f2ce;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 100px;
+    font-weight: 500;
+    left: 383px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 427px;
+    width: 520px;
+}
+
+.notification-PUFF .p {
+    color: #ffffffcc;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 519px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1192px;
+    width: 243px;
+}
+
+.notification-PUFF .ellipse-4 {
+    height: 568px;
+    left: 361px;
+    position: absolute;
+    top: 534px;
+    width: 566px;
+}
+
+.notification-PUFF .design-ohne-titel {
+    height: 342px;
+    left: 493px;
+    object-fit: cover;
+    position: absolute;
+    top: 635px;
+    width: 292px;
+}
+
+.notification-PUFF .group-2 {
+    height: 101px;
+    left: 65px;
+    position: absolute;
+    top: 1187px;
+    width: 443px;
+}
+
+.notification-PUFF .rectangle-3 {
+    height: 101px;
+    left: 55px;
+    position: absolute;
+    top: 0;
+    width: 331px;
+}
+
+.notification-PUFF .text-wrapper-3 {
+    color: #79f2ce;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 21px;
+    width: 441px;
+}
+
+.notification-PUFF .group-wrapper {
+    all: unset;
+    box-sizing: border-box;
+    height: 101px;
+    left: 937px;
+    position: absolute;
+    top: 1187px;
+    width: 441px;
+}
+
+.notification-PUFF .group-3 {
+    height: 101px;
+    width: 443px;
+}
+
+.notification-PUFF .text-wrapper-4 {
+    color: #e1f9ff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 21px;
+    width: 441px;
+}
+
+.notification-PUFF .ellipse-5 {
+    height: 668px;
+    left: 380px;
+    position: absolute;
+    top: 894px;
+    width: 479px;
+}
+
+.notification-PUFF .ellipse-6 {
+    height: 668px;
+    left: 565px;
+    position: absolute;
+    top: 894px;
+    width: 479px;
+}
+
+.notification-PUFF .text-wrapper-5 {
+    color: #9beaa1;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: -901px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 968px;
+}
